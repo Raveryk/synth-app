@@ -1,0 +1,17 @@
+.synth {
+height: 100vh;
+}
+
+.noteWrapper {
+display: flex;
+justify-content: center;
+align-items: center;
+height: 100%;
+}
+
+.note {
+margin: 2%;
+height: 100px;
+width: 50px;
+cursor: pointer;
+}
