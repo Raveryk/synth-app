@@ -5,7 +5,6 @@ import Home from './Home/Home'
 import {
   HashRouter as Router,
   Route,
-  Redirect,
   Link,
   Switch,
 } from 'react-router-dom';
